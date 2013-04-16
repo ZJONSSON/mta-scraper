@@ -1,0 +1,17 @@
+{
+  "name": "metronorth",
+  "scripts": {
+    "start": "web.js"
+  },
+  "dependencies": {
+    "express": "3.1.x",
+    "request": "2.16.x",
+    "socket.io": "0.9.14",
+    "cheerio": "0.10.x"
+  },
+  "version": "0.0.1-1",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "subdomain": "metronorth"
+}
